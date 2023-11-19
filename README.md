@@ -30,6 +30,7 @@
 
 [![LeetCode](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)](https://leetcode.com/Hamed-Hasan) [![HackerRank](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)](https://www.hackerrank.com/hamedhasan/)
 
+<a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
 
 
 # 💻 Tech Stack:
