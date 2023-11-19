@@ -29,7 +29,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hamed.y.hasan0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamed-hasan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/HamedHasan75) 
 
 **Profiles:**
-- [LeetCode](https://leetcode.com/hamedhasan/)
+- [LeetCode](https://leetcode.com/Hamed-Hasan)
 - [HackerRank](https://www.hackerrank.com/hamedhasan/)
 
 
