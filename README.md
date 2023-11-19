@@ -3,10 +3,10 @@
 ### My Projects
 | Project Title  | Platform  | Technology Used  | Live Link  | Role  | 
 | ------------ | :------------: | :------------: | ------------ | ------------ |
-| Shofy - Modern eCommerce  | eCommerce | Next.js Typescript Redux Node.js MongoDB Stripe |  [Next-Level eCommerce with Modern Powerful Tech Stack](https://shofy-front-end.vercel.app "eCommerce Recommendation System")   | Individual  |
-| Shofy Fashion  | eCommerce  | Next.js Typescript Redux Node.js MongoDB Stripe  | [Explore Fashion, Empower Your Stylish Online Destination](https://shofy-fashion-ecommerce-client.vercel.app "Advanced eCommerce Recommendation System")  | Individual  |
 | Next-Level GreenEcovents  | Advanced Web | Next.js Typescript Express PostgreSQL Prisma Stripe |  [Advance Solo-Developed Event Management Web Application](https://green-ecovents.vercel.app "Next-Level Recommendation System")   | Individual  |
 | Next-Level XploreHub | Advanced Web  | Next.js Typescript Redux Express PostgreSQL Prisma Stripe  | [Travel Agency Website - Seamless Travel Experiences](https://xplore-frontend-six.vercel.app "Advanced XploreHub Recommendation System")  | Individual  |
+| Shofy - Modern eCommerce  | eCommerce | Next.js Typescript Redux Node.js MongoDB Stripe |  [Next-Level eCommerce with Modern Powerful Tech Stack](https://shofy-front-end.vercel.app "eCommerce Recommendation System")   | Individual  |
+| Shofy Fashion  | eCommerce  | Next.js Typescript Redux Node.js MongoDB Stripe  | [Explore Fashion, Empower Your Stylish Online Destination](https://shofy-fashion-ecommerce-client.vercel.app "Advanced eCommerce Recommendation System")  | Individual  |
 |  Beauty & Cosmetics Emporium  | eCommerce  | Next.js Typescript Redux Node.js MongoDB Stripe | [Shofy - Beauty & Cosmetics eCommerce Web Application](https://shofy-beauty-cosmetics-ecommerce.vercel.app "Advanced eCommerce Recommendation System")  | Individual  |
 |  NextJs Booking Solution  | Booking | Next.js Typescript Redux Node.js MongoDB Stripe | [NextGen Booking & Listing: Scalable, Intuitive Solution](https://online-booking-management.vercel.app "Advanced Booking Recommendation System")  | Individual  |
 | Shofy Jewelry  | eCommerce | Next.js Typescript Redux Node.js MongoDB Stripe | [Seamless eCommerce for Exquisite Jewelry - Elevate Your Shopping Experience](https://shofy-jewelry-ecommerce.vercel.app "Advanced eCommerce Recommendation System")   | Individual |
