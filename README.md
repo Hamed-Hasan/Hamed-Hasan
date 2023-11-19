@@ -28,9 +28,24 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hamed.y.hasan0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamed-hasan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/HamedHasan75) 
 
-[![LeetCode](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)](https://leetcode.com/Hamed-Hasan) [![HackerRank](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)](https://www.hackerrank.com/hamedhasan/)
+<p align="center">
+  <a href="https://leetcode.com/Hamed-Hasan/" target="_blank">
+    <img src="https://i.ibb.co/pbmrKC2/leetcode.png" alt="LeetCode Logo" width="50" height="50">
+  </a>
+  <a href="https://www.hackerrank.com/profile/swe_hamedhasan" target="_blank">
+    <img src="https://i.ibb.co/YkN5J2B/hackerrank.png" alt="HackerRank Logo" width="50" height="50">
+  </a>
+  <a href="https://codeforces.com/profile/Hamed-Hasan" target="_blank">
+    <img src="https://i.ibb.co/tDp7Hg2/code-forces.png" alt="Codeforces Logo" width="50" height="50">
+  </a>
+  <a href="https://www.codingninjas.com/studio/profile/Hamed" target="_blank">
+    <img src="https://i.ibb.co/DKWyGns/coding-Ninja.jpg" alt="CodingNinja Logo" width="50" height="50">
+  </a>
+  <a href="https://cses.fi/user/184818" target="_blank">
+    <img src="https://i.ibb.co/Cv7PqYT/cses.png" alt="CSES Logo" width="50" height="50">
+  </a>
+</p>
 
-<a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
 
 
 # 💻 Tech Stack:
