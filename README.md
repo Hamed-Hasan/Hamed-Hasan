@@ -1,5 +1,5 @@
 ![git-banner](https://user-images.githubusercontent.com/71956267/196237899-e155d688-0162-4d91-aecb-4d9c48f1bea5.jpg)
- 
+
 ### My Projects
 | Project Title  | Platform  | Technology Used  | Live Link  | Role  | 
 | ------------ | :------------: | :------------: | ------------ | ------------ |
