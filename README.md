@@ -1,6 +1,6 @@
 ![git-banner](https://user-images.githubusercontent.com/71956267/196237899-e155d688-0162-4d91-aecb-4d9c48f1bea5.jpg)
      
-### My Projects    
+### My Projects     
 | Project Title  | Platform  | Technology Used  | Live Link  | Role  | 
 | ------------ | :------------: | :------------: | ------------ | ------------ |
 | Next-Level GreenEcovents  | Advanced Web | Next.js Typescript Express PostgreSQL Prisma Stripe |  [Advance Solo-Developed Event Management Web Application](https://green-ecovents.vercel.app "Next-Level Recommendation System")   | Individual  |
